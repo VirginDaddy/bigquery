@@ -1,0 +1,14 @@
+Package: bigquery
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Akhil Devarakonda
+Maintainer: Akhil Devarakonda <akhil.d@algoscale.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: shortesttrack
+Encoding: UTF-8
+LazyData: true
+Imports:
+   httr,RJSONIO 
+RoxygenNote: 6.0.1 
